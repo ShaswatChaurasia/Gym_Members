@@ -1,2 +1,2 @@
 # Gym_Members
-This sql contains data of people subscribed to gym membership
+This sql contains fitness information of data like bmi weight,meal plan and excersice  
